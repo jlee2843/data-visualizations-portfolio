@@ -1,0 +1,1025 @@
+PROVINCE,VARIABLE,YEAR,UNIT,VALUE
+Alberta,Dissolved Oxygen,2000,mg/L,10.402069035947711
+Alberta,Dissolved Oxygen,2001,mg/L,10.925247894040657
+Alberta,Dissolved Oxygen,2002,mg/L,10.539742072470014
+Alberta,Dissolved Oxygen,2003,mg/L,10.522747474747472
+Alberta,Dissolved Oxygen,2004,mg/L,10.126393939393939
+Alberta,Dissolved Oxygen,2005,mg/L,10.895678282828282
+Alberta,Dissolved Oxygen,2006,mg/L,9.82866287878788
+Alberta,Dissolved Oxygen,2007,mg/L,10.555309343434343
+Alberta,Dissolved Oxygen,2008,mg/L,11.401256313131313
+Alberta,Dissolved Oxygen,2009,mg/L,10.466959776334777
+Alberta,Dissolved Oxygen,2010,mg/L,10.134280303030303
+Alberta,Dissolved Oxygen,2011,mg/L,10.897257218971506
+Alberta,Dissolved Oxygen,2012,mg/L,11.04247077922078
+Alberta,Dissolved Oxygen,2013,mg/L,10.452924010513296
+Alberta,Dissolved Oxygen,2014,mg/L,10.496270743145745
+Alberta,Dissolved Oxygen,2015,mg/L,10.599903138528138
+Alberta,Dissolved Oxygen,2016,mg/L,10.445399414311177
+Alberta,Dissolved Oxygen,2017,mg/L,10.358969421101774
+Alberta,Dissolved Oxygen,2018,mg/L,10.360623949579832
+Alberta,Dissolved Oxygen,2019,mg/L,10.139400510204082
+Alberta,Dissolved Phosphorus,2000,mg/L,0.014503787878787876
+Alberta,Dissolved Phosphorus,2001,mg/L,0.009558333333333334
+Alberta,Dissolved Phosphorus,2002,mg/L,0.012749007936507935
+Alberta,Dissolved Phosphorus,2003,mg/L,0.011331168831168833
+Alberta,Dissolved Phosphorus,2004,mg/L,0.00979513888888889
+Alberta,Dissolved Phosphorus,2005,mg/L,0.013861111111111112
+Alberta,Dissolved Phosphorus,2006,mg/L,0.008217063492063493
+Alberta,Dissolved Phosphorus,2007,mg/L,0.02962728729603729
+Alberta,Dissolved Phosphorus,2008,mg/L,0.006806051587301588
+Alberta,Dissolved Phosphorus,2009,mg/L,0.005945980235042736
+Alberta,Dissolved Phosphorus,2010,mg/L,0.007622255799755801
+Alberta,Dissolved Phosphorus,2011,mg/L,0.012011724386724387
+Alberta,Dissolved Phosphorus,2012,mg/L,0.009206957972582972
+Alberta,Dissolved Phosphorus,2013,mg/L,0.00808854166666667
+Alberta,Dissolved Phosphorus,2014,mg/L,0.00862584863053613
+Alberta,Dissolved Phosphorus,2015,mg/L,0.006358867694805194
+Alberta,Dissolved Phosphorus,2016,mg/L,0.00628025152844232
+Alberta,Dissolved Phosphorus,2017,mg/L,0.010484380835667599
+Alberta,Dissolved Phosphorus,2018,mg/L,0.008719513574660635
+Alberta,Dissolved Phosphorus,2019,mg/L,0.00799156462585034
+Alberta,Dissolved Sulphate,2000,mg/L,34.81329906204906
+Alberta,Dissolved Sulphate,2001,mg/L,33.778120490620495
+Alberta,Dissolved Sulphate,2002,mg/L,35.610831529581525
+Alberta,Dissolved Sulphate,2003,mg/L,35.00791287878788
+Alberta,Dissolved Sulphate,2004,mg/L,31.803636363636357
+Alberta,Dissolved Sulphate,2005,mg/L,31.35161826599327
+Alberta,Dissolved Sulphate,2006,mg/L,65.64687229437229
+Alberta,Dissolved Sulphate,2007,mg/L,40.6550615530303
+Alberta,Dissolved Sulphate,2008,mg/L,38.42199032738095
+Alberta,Dissolved Sulphate,2009,mg/L,35.00689074814075
+Alberta,Dissolved Sulphate,2010,mg/L,49.83417868589744
+Alberta,Dissolved Sulphate,2011,mg/L,43.41173949314574
+Alberta,Dissolved Sulphate,2012,mg/L,38.97609465187591
+Alberta,Dissolved Sulphate,2013,mg/L,37.46925189393939
+Alberta,Dissolved Sulphate,2014,mg/L,40.24469494047619
+Alberta,Dissolved Sulphate,2015,mg/L,45.1320468073593
+Alberta,Dissolved Sulphate,2016,mg/L,43.841318791771094
+Alberta,Dissolved Sulphate,2017,mg/L,65.2348189484127
+Alberta,Dissolved Sulphate,2018,mg/L,39.55094577297702
+Alberta,Dissolved Sulphate,2019,mg/L,61.27375283446712
+Alberta,Water Temperature,2000,°C,14.146268983195453
+Alberta,Water Temperature,2001,°C,13.73661687843896
+Alberta,Water Temperature,2002,°C,14.074097862684821
+Alberta,Water Temperature,2003,°C,15.356349206349206
+Alberta,Water Temperature,2004,°C,13.091666666666667
+Alberta,Water Temperature,2005,°C,13.906989795918369
+Alberta,Water Temperature,2006,°C,8.067846677132392
+Alberta,Water Temperature,2007,°C,7.376872294372295
+Alberta,Water Temperature,2008,°C,6.475107374768089
+Alberta,Water Temperature,2009,°C,7.102940765238904
+Alberta,Water Temperature,2010,°C,7.351466063698206
+Alberta,Water Temperature,2011,°C,6.824698145604396
+Alberta,Water Temperature,2012,°C,7.915905032467533
+Alberta,Water Temperature,2013,°C,8.081443317099566
+Alberta,Water Temperature,2014,°C,7.600737396284271
+Alberta,Water Temperature,2015,°C,7.987144886363636
+Alberta,Water Temperature,2016,°C,8.077310725426535
+Alberta,Water Temperature,2017,°C,6.953678308823529
+Alberta,Water Temperature,2018,°C,6.911614939309057
+Alberta,Water Temperature,2019,°C,7.179156135531135
+Alberta,pH,2000,PH,8.015463564213563
+Alberta,pH,2001,PH,8.102541805416804
+Alberta,pH,2002,PH,8.102950984552887
+Alberta,pH,2003,PH,8.105424513037283
+Alberta,pH,2004,PH,8.117702850189263
+Alberta,pH,2005,PH,8.171995503288981
+Alberta,pH,2006,PH,8.24215905117427
+Alberta,pH,2007,PH,8.11201676797201
+Alberta,pH,2008,PH,8.169546843296649
+Alberta,pH,2009,PH,8.241218928577398
+Alberta,pH,2010,PH,8.167089595258393
+Alberta,pH,2011,PH,8.1148532041275
+Alberta,pH,2012,PH,8.102830791012058
+Alberta,pH,2013,PH,8.150979429848357
+Alberta,pH,2014,PH,8.087184317139242
+Alberta,pH,2015,PH,8.188201290397583
+Alberta,pH,2016,PH,8.131681883883157
+Alberta,pH,2017,PH,8.072949327895287
+Alberta,pH,2018,PH,8.069695728291316
+Alberta,pH,2019,PH,7.974105017205017
+British Columbia,Dissolved Oxygen,2000,mg/L,10.279166666666667
+British Columbia,Dissolved Oxygen,2001,mg/L,11.574376657824933
+British Columbia,Dissolved Oxygen,2002,mg/L,11.190826923076923
+British Columbia,Dissolved Oxygen,2003,mg/L,10.796492063492062
+British Columbia,Dissolved Oxygen,2004,mg/L,10.509813194052326
+British Columbia,Dissolved Oxygen,2005,mg/L,10.555094932844932
+British Columbia,Dissolved Oxygen,2006,mg/L,11.032505517630518
+British Columbia,Dissolved Oxygen,2007,mg/L,10.947636483599217
+British Columbia,Dissolved Oxygen,2008,mg/L,10.456359122082631
+British Columbia,Dissolved Oxygen,2009,mg/L,10.333413881656845
+British Columbia,Dissolved Oxygen,2010,mg/L,10.446972550301368
+British Columbia,Dissolved Oxygen,2011,mg/L,11.098125723908165
+British Columbia,Dissolved Oxygen,2012,mg/L,10.70378306690085
+British Columbia,Dissolved Oxygen,2013,mg/L,10.542868935730667
+British Columbia,Dissolved Oxygen,2014,mg/L,10.414981536913382
+British Columbia,Dissolved Oxygen,2015,mg/L,10.731042652069386
+British Columbia,Dissolved Oxygen,2016,mg/L,10.651580559727476
+British Columbia,Dissolved Oxygen,2017,mg/L,10.669427118625904
+British Columbia,Dissolved Oxygen,2018,mg/L,10.664354237970812
+British Columbia,Dissolved Oxygen,2019,mg/L,10.703997565184892
+British Columbia,Dissolved Phosphorus,2000,mg/L,0.012768930708667548
+British Columbia,Dissolved Phosphorus,2001,mg/L,0.008866028333867557
+British Columbia,Dissolved Phosphorus,2002,mg/L,0.008955505117431588
+British Columbia,Dissolved Phosphorus,2003,mg/L,0.007999279985572502
+British Columbia,Dissolved Phosphorus,2004,mg/L,0.008061425472112426
+British Columbia,Dissolved Phosphorus,2005,mg/L,0.008227539726268511
+British Columbia,Dissolved Phosphorus,2006,mg/L,0.009210592425797994
+British Columbia,Dissolved Phosphorus,2007,mg/L,0.015103171462301779
+British Columbia,Dissolved Phosphorus,2008,mg/L,0.016924195083333014
+British Columbia,Dissolved Phosphorus,2009,mg/L,0.01591241776200979
+British Columbia,Dissolved Phosphorus,2010,mg/L,0.009728383523268434
+British Columbia,Dissolved Phosphorus,2011,mg/L,0.011983275534565931
+British Columbia,Dissolved Phosphorus,2012,mg/L,0.016380325948240057
+British Columbia,Dissolved Phosphorus,2013,mg/L,0.011679685526769745
+British Columbia,Dissolved Phosphorus,2014,mg/L,0.019081879678909595
+British Columbia,Dissolved Phosphorus,2015,mg/L,0.012019702507831145
+British Columbia,Dissolved Phosphorus,2016,mg/L,0.00884034491328495
+British Columbia,Dissolved Phosphorus,2017,mg/L,0.009428144912385304
+British Columbia,Dissolved Phosphorus,2018,mg/L,0.009011804095561838
+British Columbia,Dissolved Phosphorus,2019,mg/L,0.009284950263411803
+British Columbia,Dissolved Sulphate,2000,mg/L,12.444594321266965
+British Columbia,Dissolved Sulphate,2001,mg/L,12.544086956521738
+British Columbia,Dissolved Sulphate,2002,mg/L,17.48667906820848
+British Columbia,Dissolved Sulphate,2003,mg/L,16.5683539625699
+British Columbia,Dissolved Sulphate,2004,mg/L,14.145968065362199
+British Columbia,Dissolved Sulphate,2005,mg/L,14.88578989441435
+British Columbia,Dissolved Sulphate,2006,mg/L,16.58946126280614
+British Columbia,Dissolved Sulphate,2007,mg/L,15.178621380172624
+British Columbia,Dissolved Sulphate,2008,mg/L,17.55643808836013
+British Columbia,Dissolved Sulphate,2009,mg/L,14.546404065788543
+British Columbia,Dissolved Sulphate,2010,mg/L,15.228554370798285
+British Columbia,Dissolved Sulphate,2011,mg/L,14.932512323915155
+British Columbia,Dissolved Sulphate,2012,mg/L,13.13747966636342
+British Columbia,Dissolved Sulphate,2013,mg/L,13.798370728509909
+British Columbia,Dissolved Sulphate,2014,mg/L,13.338590787362032
+British Columbia,Dissolved Sulphate,2015,mg/L,12.66660057048215
+British Columbia,Dissolved Sulphate,2016,mg/L,14.831347319347321
+British Columbia,Dissolved Sulphate,2017,mg/L,16.5898
+British Columbia,Water Temperature,2000,°C,7.502655094749179
+British Columbia,Water Temperature,2001,°C,7.048092700296755
+British Columbia,Water Temperature,2002,°C,7.264233992167862
+British Columbia,Water Temperature,2003,°C,8.03669735077054
+British Columbia,Water Temperature,2004,°C,7.892350641957739
+British Columbia,Water Temperature,2005,°C,7.939911538014725
+British Columbia,Water Temperature,2006,°C,8.453847503923855
+British Columbia,Water Temperature,2007,°C,7.830184928588461
+British Columbia,Water Temperature,2008,°C,7.959403300501126
+British Columbia,Water Temperature,2009,°C,8.096278924641632
+British Columbia,Water Temperature,2010,°C,8.288233493708125
+British Columbia,Water Temperature,2011,°C,7.1095782062328015
+British Columbia,Water Temperature,2012,°C,7.767472004089252
+British Columbia,Water Temperature,2013,°C,8.39342051760312
+British Columbia,Water Temperature,2014,°C,8.623424779606358
+British Columbia,Water Temperature,2015,°C,6.1433491466003405
+British Columbia,Water Temperature,2016,°C,5.311678321678322
+British Columbia,Water Temperature,2017,°C,4.738717948717949
+British Columbia,Water Temperature,2018,°C,4.840306776556777
+British Columbia,Water Temperature,2019,°C,3.264285714285714
+British Columbia,pH,2000,PH,7.900909632384011
+British Columbia,pH,2001,PH,7.934777603386737
+British Columbia,pH,2002,PH,7.890885421434888
+British Columbia,pH,2003,PH,7.930229012676994
+British Columbia,pH,2004,PH,7.821886448085527
+British Columbia,pH,2005,PH,7.723278499289901
+British Columbia,pH,2006,PH,7.833860818676465
+British Columbia,pH,2007,PH,7.895793877237999
+British Columbia,pH,2008,PH,7.948025558686649
+British Columbia,pH,2009,PH,7.914896562528073
+British Columbia,pH,2010,PH,7.8974687953856195
+British Columbia,pH,2011,PH,7.8272217466497676
+British Columbia,pH,2012,PH,7.890150569992425
+British Columbia,pH,2013,PH,7.883831976239473
+British Columbia,pH,2014,PH,7.886770986712878
+British Columbia,pH,2015,PH,7.902044096345196
+British Columbia,pH,2016,PH,7.892164556481613
+British Columbia,pH,2017,PH,7.94376350698351
+British Columbia,pH,2018,PH,7.980197715109359
+British Columbia,pH,2019,PH,7.940172472716101
+Manitoba,Dissolved Oxygen,2000,mg/L,9.591717171717171
+Manitoba,Dissolved Oxygen,2001,mg/L,9.592056818181817
+Manitoba,Dissolved Oxygen,2002,mg/L,11.213578282828284
+Manitoba,Dissolved Oxygen,2003,mg/L,10.236215909090909
+Manitoba,Dissolved Oxygen,2004,mg/L,10.297551136363637
+Manitoba,Dissolved Oxygen,2005,mg/L,9.578333333333333
+Manitoba,Dissolved Oxygen,2006,mg/L,9.059565508021391
+Manitoba,Dissolved Oxygen,2007,mg/L,11.198689393939393
+Manitoba,Dissolved Oxygen,2008,mg/L,11.111683177933177
+Manitoba,Dissolved Oxygen,2009,mg/L,10.285271873594242
+Manitoba,Dissolved Oxygen,2010,mg/L,10.254011538461539
+Manitoba,Dissolved Oxygen,2011,mg/L,9.595951388888889
+Manitoba,Dissolved Oxygen,2012,mg/L,10.493636363636362
+Manitoba,Dissolved Oxygen,2013,mg/L,9.862549311714709
+Manitoba,Dissolved Oxygen,2014,mg/L,10.550000704721636
+Manitoba,Dissolved Oxygen,2015,mg/L,10.667349941724941
+Manitoba,Dissolved Oxygen,2016,mg/L,10.574772012578617
+Manitoba,Dissolved Oxygen,2017,mg/L,10.151481009070295
+Manitoba,Dissolved Oxygen,2018,mg/L,10.378720238095237
+Manitoba,Dissolved Oxygen,2019,mg/L,9.854263325825826
+Manitoba,Dissolved Phosphorus,2000,mg/L,0.07720384615384615
+Manitoba,Dissolved Phosphorus,2001,mg/L,0.22688557692307693
+Manitoba,Dissolved Phosphorus,2002,mg/L,0.0759375
+Manitoba,Dissolved Phosphorus,2003,mg/L,0.07479936868686869
+Manitoba,Dissolved Phosphorus,2004,mg/L,0.10001704545454544
+Manitoba,Dissolved Phosphorus,2005,mg/L,0.11609251792114696
+Manitoba,Dissolved Phosphorus,2006,mg/L,0.10267141330891331
+Manitoba,Dissolved Phosphorus,2007,mg/L,0.1319078431372549
+Manitoba,Dissolved Phosphorus,2008,mg/L,0.0967154356060606
+Manitoba,Dissolved Phosphorus,2009,mg/L,0.09832042219398743
+Manitoba,Dissolved Phosphorus,2010,mg/L,0.1201400641025641
+Manitoba,Dissolved Phosphorus,2011,mg/L,0.1286707616707617
+Manitoba,Dissolved Phosphorus,2012,mg/L,0.07601428571428571
+Manitoba,Dissolved Phosphorus,2013,mg/L,0.12420624999999999
+Manitoba,Dissolved Phosphorus,2014,mg/L,0.10425683579985906
+Manitoba,Dissolved Phosphorus,2015,mg/L,0.08516934731934732
+Manitoba,Dissolved Phosphorus,2016,mg/L,0.10370479559748427
+Manitoba,Dissolved Phosphorus,2017,mg/L,0.10337537492269634
+Manitoba,Dissolved Phosphorus,2018,mg/L,0.10361089285714288
+Manitoba,Dissolved Phosphorus,2019,mg/L,0.13451121693121693
+Manitoba,Dissolved Sulphate,2000,mg/L,94.10244047619048
+Manitoba,Dissolved Sulphate,2001,mg/L,92.39218253968255
+Manitoba,Dissolved Sulphate,2002,mg/L,97.63030303030304
+Manitoba,Dissolved Sulphate,2003,mg/L,125.62845779220778
+Manitoba,Dissolved Sulphate,2004,mg/L,101.22753787878787
+Manitoba,Dissolved Sulphate,2005,mg/L,100.8920265151515
+Manitoba,Dissolved Sulphate,2006,mg/L,95.95599664224665
+Manitoba,Dissolved Sulphate,2007,mg/L,104.19851715686274
+Manitoba,Dissolved Sulphate,2008,mg/L,109.66767045454546
+Manitoba,Dissolved Sulphate,2009,mg/L,105.00998738406982
+Manitoba,Dissolved Sulphate,2010,mg/L,106.30186188811189
+Manitoba,Dissolved Sulphate,2011,mg/L,119.18346092503987
+Manitoba,Dissolved Sulphate,2012,mg/L,154.87459523809525
+Manitoba,Dissolved Sulphate,2013,mg/L,120.16604166666664
+Manitoba,Dissolved Sulphate,2014,mg/L,122.99892221634954
+Manitoba,Dissolved Sulphate,2015,mg/L,135.81468482905984
+Manitoba,Dissolved Sulphate,2016,mg/L,123.48046776729558
+Manitoba,Dissolved Sulphate,2017,mg/L,146.5120323129252
+Manitoba,Dissolved Sulphate,2018,mg/L,132.6048831300813
+Manitoba,Dissolved Sulphate,2019,mg/L,110.59192307692308
+Manitoba,Water Temperature,2000,°C,12.622141500140726
+Manitoba,Water Temperature,2001,°C,11.110984848484849
+Manitoba,Water Temperature,2002,°C,11.797913343965977
+Manitoba,Water Temperature,2003,°C,12.028863636363635
+Manitoba,Water Temperature,2004,°C,8.813011363636363
+Manitoba,Water Temperature,2005,°C,9.871313131313132
+Manitoba,Water Temperature,2006,°C,10.822189803439805
+Manitoba,Water Temperature,2007,°C,10.47424163510101
+Manitoba,Water Temperature,2008,°C,9.750917207792208
+Manitoba,Water Temperature,2009,°C,8.35616267551038
+Manitoba,Water Temperature,2010,°C,10.119897373358349
+Manitoba,Water Temperature,2011,°C,9.389465909090909
+Manitoba,Water Temperature,2012,°C,11.027800059417709
+Manitoba,Water Temperature,2013,°C,10.412411962613945
+Manitoba,Water Temperature,2014,°C,8.122529686398874
+Manitoba,Water Temperature,2015,°C,9.171375747863248
+Manitoba,Water Temperature,2016,°C,9.703904088050315
+Manitoba,Water Temperature,2017,°C,9.873917091836734
+Manitoba,Water Temperature,2018,°C,9.051374404761905
+Manitoba,Water Temperature,2019,°C,10.938103791291288
+Manitoba,pH,2000,PH,7.944005434782609
+Manitoba,pH,2001,PH,7.998627585377586
+Manitoba,pH,2002,PH,8.041772727272727
+Manitoba,pH,2003,PH,8.151283360359448
+Manitoba,pH,2004,PH,8.051487154150198
+Manitoba,pH,2005,PH,7.994470799557848
+Manitoba,pH,2006,PH,8.084720625942685
+Manitoba,pH,2007,PH,7.971289746917585
+Manitoba,pH,2008,PH,8.070774352459136
+Manitoba,pH,2009,PH,8.001145000459516
+Manitoba,pH,2010,PH,8.031879136686099
+Manitoba,pH,2011,PH,7.985786421911422
+Manitoba,pH,2012,PH,8.034731557153755
+Manitoba,pH,2013,PH,8.012780758200265
+Manitoba,pH,2014,PH,7.954741895701199
+Manitoba,pH,2015,PH,8.12920299145299
+Manitoba,pH,2016,PH,8.082004716981132
+Manitoba,pH,2017,PH,8.028354591836734
+Manitoba,pH,2018,PH,8.061914112973634
+Manitoba,pH,2019,PH,7.954697191697191
+New Brunswick,Dissolved Oxygen,2006,mg/L,11.940555555555555
+New Brunswick,Dissolved Oxygen,2007,mg/L,10.841666666666667
+New Brunswick,Dissolved Oxygen,2008,mg/L,10.59211111111111
+New Brunswick,Dissolved Oxygen,2009,mg/L,10.917261904761906
+New Brunswick,Dissolved Oxygen,2010,mg/L,11.488611111111112
+New Brunswick,Dissolved Oxygen,2011,mg/L,11.21
+New Brunswick,Dissolved Oxygen,2012,mg/L,10.54361111111111
+New Brunswick,Dissolved Oxygen,2013,mg/L,12.00261904761905
+New Brunswick,Dissolved Oxygen,2014,mg/L,11.305416666666666
+New Brunswick,Dissolved Oxygen,2015,mg/L,11.256250000000001
+New Brunswick,Dissolved Oxygen,2016,mg/L,11.488928571428572
+New Brunswick,Dissolved Oxygen,2017,mg/L,11.328920634920635
+New Brunswick,Dissolved Oxygen,2018,mg/L,11.19361607142857
+New Brunswick,Dissolved Oxygen,2019,mg/L,11.409583333333332
+New Brunswick,Dissolved Phosphorus,2015,mg/L,0.014571428571428572
+New Brunswick,Dissolved Sulphate,2000,mg/L,2.4162500000000002
+New Brunswick,Dissolved Sulphate,2001,mg/L,1.6122
+New Brunswick,Dissolved Sulphate,2002,mg/L,1.8733333333333335
+New Brunswick,Dissolved Sulphate,2003,mg/L,1.258
+New Brunswick,Dissolved Sulphate,2004,mg/L,1.6199999999999999
+New Brunswick,Dissolved Sulphate,2005,mg/L,1.884
+New Brunswick,Dissolved Sulphate,2006,mg/L,3.2265624999999996
+New Brunswick,Dissolved Sulphate,2007,mg/L,3.458849431818182
+New Brunswick,Dissolved Sulphate,2008,mg/L,2.7262714285714287
+New Brunswick,Dissolved Sulphate,2009,mg/L,3.8444897959183675
+New Brunswick,Dissolved Sulphate,2010,mg/L,3.8048809523809517
+New Brunswick,Dissolved Sulphate,2011,mg/L,2.7613333333333334
+New Brunswick,Dissolved Sulphate,2012,mg/L,3.430972222222222
+New Brunswick,Dissolved Sulphate,2013,mg/L,2.5542428571428575
+New Brunswick,Dissolved Sulphate,2014,mg/L,2.8736363636363635
+New Brunswick,Dissolved Sulphate,2015,mg/L,2.8136363636363635
+New Brunswick,Dissolved Sulphate,2016,mg/L,3.050649350649351
+New Brunswick,Dissolved Sulphate,2017,mg/L,4.238024691358024
+New Brunswick,Dissolved Sulphate,2018,mg/L,3.9053571428571425
+New Brunswick,Dissolved Sulphate,2019,mg/L,3.0555555555555554
+New Brunswick,pH,2001,PH,6.855999999999999
+New Brunswick,pH,2002,PH,6.895999999999999
+New Brunswick,pH,2003,PH,6.714
+New Brunswick,pH,2004,PH,6.798
+New Brunswick,pH,2005,PH,6.708
+New Brunswick,pH,2006,PH,7.059270833333334
+New Brunswick,pH,2007,PH,6.969242424242424
+New Brunswick,pH,2008,PH,6.602680952380953
+New Brunswick,pH,2009,PH,7.53791836734694
+New Brunswick,pH,2010,PH,7.3854100529100535
+New Brunswick,pH,2011,PH,7.006666666666668
+New Brunswick,pH,2012,PH,7.304166666666667
+New Brunswick,pH,2013,PH,7.113942857142857
+New Brunswick,pH,2014,PH,7.07628787878788
+New Brunswick,pH,2015,PH,7.111515151515152
+New Brunswick,pH,2016,PH,7.06844155844156
+New Brunswick,pH,2017,PH,7.457419753086419
+New Brunswick,pH,2018,PH,7.565562169312169
+New Brunswick,pH,2019,PH,7.217592592592592
+Newfoundland and Labrador,Dissolved Oxygen,2000,mg/L,11.133333333333331
+Newfoundland and Labrador,Dissolved Oxygen,2001,mg/L,10.084898989898988
+Newfoundland and Labrador,Dissolved Oxygen,2002,mg/L,11.020573870573868
+Newfoundland and Labrador,Dissolved Oxygen,2003,mg/L,10.977825783972124
+Newfoundland and Labrador,Dissolved Oxygen,2004,mg/L,11.5247193877551
+Newfoundland and Labrador,Dissolved Oxygen,2005,mg/L,11.639261349761346
+Newfoundland and Labrador,Dissolved Oxygen,2006,mg/L,11.519085271317833
+Newfoundland and Labrador,Dissolved Oxygen,2007,mg/L,12.172384057971014
+Newfoundland and Labrador,Dissolved Oxygen,2008,mg/L,12.012544642857145
+Newfoundland and Labrador,Dissolved Oxygen,2009,mg/L,11.482384353741493
+Newfoundland and Labrador,Dissolved Oxygen,2010,mg/L,10.92615611814346
+Newfoundland and Labrador,Dissolved Oxygen,2011,mg/L,10.989662404467962
+Newfoundland and Labrador,Dissolved Oxygen,2012,mg/L,10.443432730923696
+Newfoundland and Labrador,Dissolved Oxygen,2013,mg/L,11.106540160642572
+Newfoundland and Labrador,Dissolved Oxygen,2014,mg/L,10.782703051643189
+Newfoundland and Labrador,Dissolved Oxygen,2015,mg/L,11.7600117370892
+Newfoundland and Labrador,Dissolved Oxygen,2016,mg/L,10.808271428571427
+Newfoundland and Labrador,Dissolved Oxygen,2017,mg/L,11.052756788665878
+Newfoundland and Labrador,Dissolved Oxygen,2018,mg/L,11.291253424657532
+Newfoundland and Labrador,Dissolved Oxygen,2019,mg/L,11.513364114114106
+Newfoundland and Labrador,Dissolved Phosphorus,2015,mg/L,0.0108
+Newfoundland and Labrador,Dissolved Sulphate,2000,mg/L,17.128229166666667
+Newfoundland and Labrador,Dissolved Sulphate,2001,mg/L,4.272357487922705
+Newfoundland and Labrador,Dissolved Sulphate,2002,mg/L,4.341902962962964
+Newfoundland and Labrador,Dissolved Sulphate,2003,mg/L,3.9534178743961332
+Newfoundland and Labrador,Dissolved Sulphate,2004,mg/L,5.032016129032257
+Newfoundland and Labrador,Dissolved Sulphate,2005,mg/L,0.9707999999999999
+Newfoundland and Labrador,Dissolved Sulphate,2006,mg/L,0.9992857142857141
+Newfoundland and Labrador,Dissolved Sulphate,2007,mg/L,0.8666666666666667
+Newfoundland and Labrador,Dissolved Sulphate,2008,mg/L,1.2434782608695654
+Newfoundland and Labrador,Dissolved Sulphate,2009,mg/L,0.959
+Newfoundland and Labrador,Dissolved Sulphate,2010,mg/L,0.7188888888888889
+Newfoundland and Labrador,Dissolved Sulphate,2011,mg/L,1.6536956521739132
+Newfoundland and Labrador,Dissolved Sulphate,2012,mg/L,1.0171739130434783
+Newfoundland and Labrador,Dissolved Sulphate,2013,mg/L,3.960909090909091
+Newfoundland and Labrador,Dissolved Sulphate,2014,mg/L,6.381666666666667
+Newfoundland and Labrador,Dissolved Sulphate,2015,mg/L,8.781697845804988
+Newfoundland and Labrador,Dissolved Sulphate,2016,mg/L,6.652801771871538
+Newfoundland and Labrador,Dissolved Sulphate,2017,mg/L,6.287395937395939
+Newfoundland and Labrador,Dissolved Sulphate,2018,mg/L,7.023040920569328
+Newfoundland and Labrador,Dissolved Sulphate,2019,mg/L,6.7329315476190486
+Newfoundland and Labrador,pH,2000,PH,6.3829166666666675
+Newfoundland and Labrador,pH,2001,PH,6.576879227053141
+Newfoundland and Labrador,pH,2002,PH,6.634466666666666
+Newfoundland and Labrador,pH,2003,PH,6.79274430641822
+Newfoundland and Labrador,pH,2004,PH,6.742591650358772
+Newfoundland and Labrador,pH,2005,PH,6.634174825174826
+Newfoundland and Labrador,pH,2006,PH,6.663734177215188
+Newfoundland and Labrador,pH,2007,PH,6.601218614718616
+Newfoundland and Labrador,pH,2008,PH,6.711766666666666
+Newfoundland and Labrador,pH,2009,PH,6.723551587301587
+Newfoundland and Labrador,pH,2010,PH,6.707747126436784
+Newfoundland and Labrador,pH,2011,PH,6.66682512315271
+Newfoundland and Labrador,pH,2012,PH,6.700149812734083
+Newfoundland and Labrador,pH,2013,PH,6.7420740740740746
+Newfoundland and Labrador,pH,2014,PH,6.763230291005294
+Newfoundland and Labrador,pH,2015,PH,6.846249858276642
+Newfoundland and Labrador,pH,2016,PH,6.851887181616835
+Newfoundland and Labrador,pH,2017,PH,6.773720612720612
+Newfoundland and Labrador,pH,2018,PH,6.865490042470154
+Newfoundland and Labrador,pH,2019,PH,6.843493371212123
+Northwest Territories,Dissolved Oxygen,2000,mg/L,8.25
+Northwest Territories,Dissolved Oxygen,2001,mg/L,8.133333333333335
+Northwest Territories,Dissolved Oxygen,2002,mg/L,7.003333333333333
+Northwest Territories,Dissolved Oxygen,2003,mg/L,7.199999999999999
+Northwest Territories,Dissolved Oxygen,2004,mg/L,7.3
+Northwest Territories,Dissolved Oxygen,2005,mg/L,10.143333333333333
+Northwest Territories,Dissolved Oxygen,2006,mg/L,10.62
+Northwest Territories,Dissolved Oxygen,2007,mg/L,11.173928571428574
+Northwest Territories,Dissolved Oxygen,2008,mg/L,10.66
+Northwest Territories,Dissolved Oxygen,2009,mg/L,12.149999999999999
+Northwest Territories,Dissolved Oxygen,2010,mg/L,11.529444444444444
+Northwest Territories,Dissolved Oxygen,2011,mg/L,12.621944444444443
+Northwest Territories,Dissolved Oxygen,2012,mg/L,12.294871794871796
+Northwest Territories,Dissolved Oxygen,2013,mg/L,11.4045
+Northwest Territories,Dissolved Oxygen,2014,mg/L,10.925555555555555
+Northwest Territories,Dissolved Oxygen,2015,mg/L,10.423333333333334
+Northwest Territories,Dissolved Oxygen,2016,mg/L,9.2825
+Northwest Territories,Dissolved Oxygen,2017,mg/L,8.930000000000001
+Northwest Territories,Dissolved Oxygen,2018,mg/L,11.227666666666668
+Northwest Territories,Dissolved Oxygen,2019,mg/L,10.435
+Northwest Territories,Dissolved Phosphorus,2000,mg/L,0.020030000000000003
+Northwest Territories,Dissolved Phosphorus,2001,mg/L,0.014308333333333334
+Northwest Territories,Dissolved Phosphorus,2002,mg/L,0.029865476190476192
+Northwest Territories,Dissolved Phosphorus,2003,mg/L,0.008060000000000001
+Northwest Territories,Dissolved Phosphorus,2004,mg/L,0.01030416666666667
+Northwest Territories,Dissolved Phosphorus,2005,mg/L,0.010883333333333337
+Northwest Territories,Dissolved Phosphorus,2006,mg/L,0.011421428571428574
+Northwest Territories,Dissolved Phosphorus,2007,mg/L,0.012208333333333338
+Northwest Territories,Dissolved Phosphorus,2008,mg/L,0.012500000000000002
+Northwest Territories,Dissolved Phosphorus,2009,mg/L,0.010500000000000002
+Northwest Territories,Dissolved Phosphorus,2010,mg/L,0.010350000000000002
+Northwest Territories,Dissolved Phosphorus,2011,mg/L,0.012708333333333332
+Northwest Territories,Dissolved Phosphorus,2012,mg/L,0.008052941176470589
+Northwest Territories,Dissolved Phosphorus,2013,mg/L,0.005621666666666669
+Northwest Territories,Dissolved Phosphorus,2014,mg/L,0.00805686274509804
+Northwest Territories,Dissolved Phosphorus,2015,mg/L,0.002791876750700281
+Northwest Territories,Dissolved Phosphorus,2016,mg/L,0.0030316666666666678
+Northwest Territories,Dissolved Phosphorus,2017,mg/L,0.0031823529411764717
+Northwest Territories,Dissolved Phosphorus,2018,mg/L,0.0032205882352941183
+Northwest Territories,Dissolved Phosphorus,2019,mg/L,0.0026666666666666674
+Northwest Territories,Dissolved Sulphate,2000,mg/L,26.705384615384613
+Northwest Territories,Dissolved Sulphate,2001,mg/L,40.63666666666667
+Northwest Territories,Dissolved Sulphate,2002,mg/L,35.489999999999995
+Northwest Territories,Dissolved Sulphate,2003,mg/L,40.13041666666667
+Northwest Territories,Dissolved Sulphate,2004,mg/L,34.58158333333333
+Northwest Territories,Dissolved Sulphate,2005,mg/L,38.66639285714285
+Northwest Territories,Dissolved Sulphate,2006,mg/L,38.22340476190477
+Northwest Territories,Dissolved Sulphate,2007,mg/L,41.83391666666667
+Northwest Territories,Dissolved Sulphate,2008,mg/L,41.670333333333346
+Northwest Territories,Dissolved Sulphate,2009,mg/L,40.250666666666675
+Northwest Territories,Dissolved Sulphate,2010,mg/L,43.92633333333333
+Northwest Territories,Dissolved Sulphate,2011,mg/L,46.09925
+Northwest Territories,Dissolved Sulphate,2012,mg/L,45.759
+Northwest Territories,Dissolved Sulphate,2013,mg/L,47.827333333333335
+Northwest Territories,Dissolved Sulphate,2014,mg/L,50.57941176470588
+Northwest Territories,Dissolved Sulphate,2015,mg/L,56.195490196078424
+Northwest Territories,Dissolved Sulphate,2016,mg/L,53.40916666666666
+Northwest Territories,Dissolved Sulphate,2017,mg/L,62.129509803921565
+Northwest Territories,Dissolved Sulphate,2018,mg/L,61.371770833333336
+Northwest Territories,Dissolved Sulphate,2019,mg/L,65.40127450980393
+Northwest Territories,Water Temperature,2000,°C,3.319642857142857
+Northwest Territories,Water Temperature,2001,°C,5.884848484848485
+Northwest Territories,Water Temperature,2002,°C,5.878921568627452
+Northwest Territories,Water Temperature,2003,°C,6.548947368421053
+Northwest Territories,Water Temperature,2004,°C,8.717543859649123
+Northwest Territories,Water Temperature,2005,°C,5.810338345864662
+Northwest Territories,Water Temperature,2006,°C,6.803472222222222
+Northwest Territories,Water Temperature,2007,°C,5.460175438596491
+Northwest Territories,Water Temperature,2008,°C,4.54543859649123
+Northwest Territories,Water Temperature,2009,°C,6.483499999999999
+Northwest Territories,Water Temperature,2010,°C,6.7341228070175445
+Northwest Territories,Water Temperature,2011,°C,7.027333333333333
+Northwest Territories,Water Temperature,2012,°C,6.363055555555556
+Northwest Territories,Water Temperature,2013,°C,7.153083333333335
+Northwest Territories,Water Temperature,2014,°C,6.6872549019607845
+Northwest Territories,Water Temperature,2015,°C,5.416106442577031
+Northwest Territories,Water Temperature,2016,°C,6.519416666666666
+Northwest Territories,Water Temperature,2017,°C,6.503333333333334
+Northwest Territories,Water Temperature,2018,°C,6.154607843137254
+Northwest Territories,Water Temperature,2019,°C,7.424803921568628
+Northwest Territories,pH,2000,PH,7.927774603174603
+Northwest Territories,pH,2001,PH,7.973146258503401
+Northwest Territories,pH,2002,PH,7.8670729166666655
+Northwest Territories,pH,2003,PH,8.118205952380952
+Northwest Territories,pH,2004,PH,7.897418131868132
+Northwest Territories,pH,2005,PH,8.022443223443224
+Northwest Territories,pH,2006,PH,8.081859649122807
+Northwest Territories,pH,2007,PH,7.9745811965811955
+Northwest Territories,pH,2008,PH,8.01035897435897
+Northwest Territories,pH,2009,PH,8.163649999999997
+Northwest Territories,pH,2010,PH,8.234299145299145
+Northwest Territories,pH,2011,PH,8.074787500000001
+Northwest Territories,pH,2012,PH,7.959184210526318
+Northwest Territories,pH,2013,PH,8.039112500000002
+Northwest Territories,pH,2014,PH,8.091070728291314
+Northwest Territories,pH,2015,PH,8.115869047619048
+Northwest Territories,pH,2016,PH,8.05408333333333
+Northwest Territories,pH,2017,PH,7.921651960784315
+Northwest Territories,pH,2018,PH,8.164558823529411
+Northwest Territories,pH,2019,PH,8.053901041666666
+Nova Scotia,Dissolved Oxygen,2006,mg/L,9.560818181818181
+Nova Scotia,Dissolved Oxygen,2007,mg/L,11.337754329004328
+Nova Scotia,Dissolved Oxygen,2008,mg/L,8.850817355889722
+Nova Scotia,Dissolved Oxygen,2009,mg/L,10.979425595238096
+Nova Scotia,Dissolved Oxygen,2010,mg/L,9.531183673469386
+Nova Scotia,Dissolved Oxygen,2011,mg/L,10.98978761904762
+Nova Scotia,Dissolved Oxygen,2012,mg/L,9.918930555555553
+Nova Scotia,Dissolved Oxygen,2013,mg/L,9.759503132526389
+Nova Scotia,Dissolved Oxygen,2014,mg/L,11.154391941391939
+Nova Scotia,Dissolved Oxygen,2015,mg/L,11.294062411947026
+Nova Scotia,Dissolved Oxygen,2016,mg/L,11.36138888888889
+Nova Scotia,Dissolved Oxygen,2017,mg/L,11.189367424242425
+Nova Scotia,Dissolved Oxygen,2018,mg/L,11.2587401060478
+Nova Scotia,Dissolved Oxygen,2019,mg/L,11.502802902225977
+Nova Scotia,Dissolved Phosphorus,2015,mg/L,0.012375
+Nova Scotia,Dissolved Sulphate,2000,mg/L,3.8809078062405833
+Nova Scotia,Dissolved Sulphate,2001,mg/L,4.392907790927022
+Nova Scotia,Dissolved Sulphate,2002,mg/L,3.977099841812898
+Nova Scotia,Dissolved Sulphate,2003,mg/L,2.5591983751542577
+Nova Scotia,Dissolved Sulphate,2004,mg/L,2.4123295454545457
+Nova Scotia,Dissolved Sulphate,2005,mg/L,2.5810518053375193
+Nova Scotia,Dissolved Sulphate,2006,mg/L,4.8246574493045085
+Nova Scotia,Dissolved Sulphate,2007,mg/L,4.004155710574828
+Nova Scotia,Dissolved Sulphate,2008,mg/L,3.945145231425903
+Nova Scotia,Dissolved Sulphate,2009,mg/L,4.362170879120879
+Nova Scotia,Dissolved Sulphate,2010,mg/L,3.835506760620915
+Nova Scotia,Dissolved Sulphate,2011,mg/L,3.656700673830139
+Nova Scotia,Dissolved Sulphate,2012,mg/L,4.198779635258358
+Nova Scotia,Dissolved Sulphate,2013,mg/L,3.704010734635736
+Nova Scotia,Dissolved Sulphate,2014,mg/L,3.717833745768121
+Nova Scotia,Dissolved Sulphate,2015,mg/L,3.7836549050702613
+Nova Scotia,Dissolved Sulphate,2016,mg/L,4.9435797676851285
+Nova Scotia,Dissolved Sulphate,2017,mg/L,4.493333563993137
+Nova Scotia,Dissolved Sulphate,2018,mg/L,4.2329674528687695
+Nova Scotia,Dissolved Sulphate,2019,mg/L,4.311504819058011
+Nova Scotia,pH,2000,PH,5.487452699474441
+Nova Scotia,pH,2001,PH,5.431720085470085
+Nova Scotia,pH,2002,PH,5.396807103704522
+Nova Scotia,pH,2003,PH,5.258081350838703
+Nova Scotia,pH,2004,PH,5.382953802733215
+Nova Scotia,pH,2005,PH,5.346090576090577
+Nova Scotia,pH,2006,PH,5.705126613038379
+Nova Scotia,pH,2007,PH,5.646799503562109
+Nova Scotia,pH,2008,PH,5.875705223200391
+Nova Scotia,pH,2009,PH,5.844893956043957
+Nova Scotia,pH,2010,PH,5.879426339285714
+Nova Scotia,pH,2011,PH,5.766177691455371
+Nova Scotia,pH,2012,PH,5.845197737250929
+Nova Scotia,pH,2013,PH,5.837707633801384
+Nova Scotia,pH,2014,PH,5.934608620546122
+Nova Scotia,pH,2015,PH,5.913890852825867
+Nova Scotia,pH,2016,PH,5.917891052056177
+Nova Scotia,pH,2017,PH,5.917140338857359
+Nova Scotia,pH,2018,PH,5.812215932824486
+Nova Scotia,pH,2019,PH,5.8168408801600275
+Nunavut,Dissolved Phosphorus,2000,mg/L,0.0225
+Nunavut,Dissolved Phosphorus,2001,mg/L,0.014523809523809522
+Nunavut,Dissolved Phosphorus,2002,mg/L,0.044750000000000005
+Nunavut,Dissolved Phosphorus,2003,mg/L,0.004462962962962963
+Nunavut,Dissolved Phosphorus,2004,mg/L,0.01
+Nunavut,Dissolved Phosphorus,2005,mg/L,0.01323333333333333
+Nunavut,Dissolved Phosphorus,2006,mg/L,0.011857142857142858
+Nunavut,Dissolved Phosphorus,2007,mg/L,0.01
+Nunavut,Dissolved Phosphorus,2008,mg/L,0.010666666666666665
+Nunavut,Dissolved Phosphorus,2009,mg/L,0.012999999999999998
+Nunavut,Dissolved Phosphorus,2010,mg/L,0.011428571428571427
+Nunavut,Dissolved Phosphorus,2011,mg/L,0.0175
+Nunavut,Dissolved Phosphorus,2012,mg/L,0.022055555555555557
+Nunavut,Dissolved Phosphorus,2013,mg/L,0.0028333333333333335
+Nunavut,Dissolved Phosphorus,2014,mg/L,0.005124999999999999
+Nunavut,Dissolved Phosphorus,2015,mg/L,0.0038000000000000004
+Nunavut,Dissolved Phosphorus,2016,mg/L,0.0028148148148148147
+Nunavut,Dissolved Phosphorus,2017,mg/L,0.002483333333333333
+Nunavut,Dissolved Phosphorus,2018,mg/L,0.002518518518518519
+Nunavut,Dissolved Sulphate,2000,mg/L,3.9749999999999996
+Nunavut,Dissolved Sulphate,2001,mg/L,7.04047619047619
+Nunavut,Dissolved Sulphate,2002,mg/L,4.569047619047619
+Nunavut,Dissolved Sulphate,2003,mg/L,10.287962962962963
+Nunavut,Dissolved Sulphate,2004,mg/L,4.899259259259259
+Nunavut,Dissolved Sulphate,2005,mg/L,4.685666666666668
+Nunavut,Dissolved Sulphate,2006,mg/L,1.8926190476190476
+Nunavut,Dissolved Sulphate,2007,mg/L,5.142916666666667
+Nunavut,Dissolved Sulphate,2008,mg/L,6.338666666666667
+Nunavut,Dissolved Sulphate,2009,mg/L,6.604666666666667
+Nunavut,Dissolved Sulphate,2010,mg/L,6.354523809523811
+Nunavut,Dissolved Sulphate,2011,mg/L,1.1566666666666667
+Nunavut,Dissolved Sulphate,2012,mg/L,9.049444444444443
+Nunavut,Dissolved Sulphate,2013,mg/L,7.53648148148148
+Nunavut,Dissolved Sulphate,2014,mg/L,7.6850000000000005
+Nunavut,Dissolved Sulphate,2015,mg/L,6.180166666666667
+Nunavut,Dissolved Sulphate,2016,mg/L,5.75037037037037
+Nunavut,Dissolved Sulphate,2017,mg/L,9.156666666666665
+Nunavut,Dissolved Sulphate,2018,mg/L,7.71537037037037
+Nunavut,Dissolved Sulphate,2019,mg/L,1.4125
+Nunavut,Water Temperature,2000,°C,3.1833333333333336
+Nunavut,Water Temperature,2001,°C,6.75
+Nunavut,Water Temperature,2002,°C,6.521428571428571
+Nunavut,Water Temperature,2003,°C,7.977777777777779
+Nunavut,Water Temperature,2004,°C,5.083333333333333
+Nunavut,Water Temperature,2005,°C,6.2555555555555555
+Nunavut,Water Temperature,2006,°C,5.333333333333333
+Nunavut,Water Temperature,2007,°C,5.683333333333334
+Nunavut,Water Temperature,2008,°C,5.742857142857143
+Nunavut,Water Temperature,2009,°C,5.61
+Nunavut,Water Temperature,2010,°C,1.2833333333333332
+Nunavut,Water Temperature,2011,°C,5.7375
+Nunavut,Water Temperature,2012,°C,7.188888888888887
+Nunavut,Water Temperature,2013,°C,6.366666666666667
+Nunavut,Water Temperature,2014,°C,6.642857142857144
+Nunavut,Water Temperature,2015,°C,7.0200000000000005
+Nunavut,Water Temperature,2016,°C,6.8
+Nunavut,Water Temperature,2017,°C,6.516666666666666
+Nunavut,Water Temperature,2018,°C,7.216666666666667
+Nunavut,Water Temperature,2019,°C,6.889999999999999
+Nunavut,pH,2000,PH,7.32352380952381
+Nunavut,pH,2001,PH,7.317380952380953
+Nunavut,pH,2002,PH,7.8903125
+Nunavut,pH,2003,PH,7.581018518518519
+Nunavut,pH,2004,PH,7.433481481481481
+Nunavut,pH,2005,PH,7.4590000000000005
+Nunavut,pH,2006,PH,7.123888888888888
+Nunavut,pH,2007,PH,7.445238095238095
+Nunavut,pH,2008,PH,7.481111111111111
+Nunavut,pH,2009,PH,7.522250000000001
+Nunavut,pH,2010,PH,7.676333333333332
+Nunavut,pH,2011,PH,7.519583333333333
+Nunavut,pH,2012,PH,7.440588235294118
+Nunavut,pH,2013,PH,6.949761904761905
+Nunavut,pH,2014,PH,7.3797395833333335
+Nunavut,pH,2015,PH,6.9014912280701735
+Nunavut,pH,2016,PH,7.516
+Nunavut,pH,2017,PH,7.5272499999999996
+Nunavut,pH,2018,PH,7.44324074074074
+Nunavut,pH,2019,PH,7.6146666666666665
+Prince Edward Island,Dissolved Oxygen,2000,mg/L,11.193333333333333
+Prince Edward Island,Dissolved Oxygen,2001,mg/L,12.675555555555555
+Prince Edward Island,Dissolved Oxygen,2002,mg/L,12.575555555555555
+Prince Edward Island,Dissolved Oxygen,2003,mg/L,12.22797619047619
+Prince Edward Island,Dissolved Oxygen,2004,mg/L,11.105357142857143
+Prince Edward Island,Dissolved Oxygen,2005,mg/L,11.609722222222222
+Prince Edward Island,Dissolved Oxygen,2006,mg/L,11.487546897546897
+Prince Edward Island,Dissolved Oxygen,2007,mg/L,11.907295751633987
+Prince Edward Island,Dissolved Oxygen,2008,mg/L,12.629326599326598
+Prince Edward Island,Dissolved Oxygen,2009,mg/L,12.775
+Prince Edward Island,Dissolved Oxygen,2010,mg/L,10.166666666666666
+Prince Edward Island,Dissolved Oxygen,2011,mg/L,15.3
+Prince Edward Island,Dissolved Oxygen,2014,mg/L,10.825
+Prince Edward Island,Dissolved Oxygen,2015,mg/L,11.751999999999999
+Prince Edward Island,Dissolved Oxygen,2016,mg/L,10.67
+Prince Edward Island,Dissolved Oxygen,2017,mg/L,11.72
+Prince Edward Island,Dissolved Oxygen,2018,mg/L,11.966666666666667
+Prince Edward Island,Dissolved Oxygen,2019,mg/L,14.273333333333333
+Prince Edward Island,Dissolved Sulphate,2000,mg/L,5.367999999999999
+Prince Edward Island,Dissolved Sulphate,2001,mg/L,7.322222222222222
+Prince Edward Island,Dissolved Sulphate,2002,mg/L,7.748650793650793
+Prince Edward Island,Dissolved Sulphate,2003,mg/L,6.627083333333334
+Prince Edward Island,Dissolved Sulphate,2005,mg/L,6.795000000000001
+Prince Edward Island,Dissolved Sulphate,2006,mg/L,6.958777777777777
+Prince Edward Island,Dissolved Sulphate,2007,mg/L,7.3265
+Prince Edward Island,Dissolved Sulphate,2008,mg/L,7.442380952380954
+Prince Edward Island,Dissolved Sulphate,2009,mg/L,7.245277777777777
+Prince Edward Island,Dissolved Sulphate,2010,mg/L,7.444166666666667
+Prince Edward Island,Dissolved Sulphate,2011,mg/L,9.145
+Prince Edward Island,Dissolved Sulphate,2012,mg/L,8.11
+Prince Edward Island,Dissolved Sulphate,2013,mg/L,10.959999999999999
+Prince Edward Island,Dissolved Sulphate,2014,mg/L,12.149999999999999
+Prince Edward Island,Dissolved Sulphate,2015,mg/L,9.85
+Prince Edward Island,Dissolved Sulphate,2016,mg/L,11.15
+Prince Edward Island,Dissolved Sulphate,2017,mg/L,9.408333333333333
+Prince Edward Island,Dissolved Sulphate,2018,mg/L,8.285714285714285
+Prince Edward Island,Dissolved Sulphate,2019,mg/L,7.635714285714286
+Prince Edward Island,pH,2000,PH,7.5328333333333335
+Prince Edward Island,pH,2001,PH,7.771111111111111
+Prince Edward Island,pH,2002,PH,7.7172222222222215
+Prince Edward Island,pH,2003,PH,7.901011904761905
+Prince Edward Island,pH,2004,PH,8.050059523809525
+Prince Edward Island,pH,2005,PH,8.026136363636363
+Prince Edward Island,pH,2006,PH,8.003096348096348
+Prince Edward Island,pH,2007,PH,8.062426900584795
+Prince Edward Island,pH,2008,PH,8.036363636363637
+Prince Edward Island,pH,2009,PH,8.099880952380952
+Prince Edward Island,pH,2010,PH,8.110833333333334
+Prince Edward Island,pH,2011,PH,8.0925
+Prince Edward Island,pH,2012,PH,8.185
+Prince Edward Island,pH,2013,PH,8.17
+Prince Edward Island,pH,2014,PH,8.103333333333333
+Prince Edward Island,pH,2015,PH,7.903999999999999
+Prince Edward Island,pH,2016,PH,7.888333333333333
+Prince Edward Island,pH,2017,PH,8.035
+Prince Edward Island,pH,2018,PH,8.230714285714285
+Prince Edward Island,pH,2019,PH,8.017857142857142
+Quebec,Dissolved Phosphorus,2012,MG/L P,0.017890079365079362
+Quebec,Dissolved Phosphorus,2013,MG/L P,0.016556587856587854
+Quebec,Dissolved Phosphorus,2014,MG/L P,0.07798143642305404
+Quebec,Dissolved Phosphorus,2015,MG/L P,0.01599722222222222
+Quebec,Dissolved Phosphorus,2015,mg/L,0.011000000000000001
+Quebec,Dissolved Phosphorus,2016,MG/L P,0.015866839826839826
+Quebec,Dissolved Phosphorus,2016,mg/L,0.013000000000000001
+Quebec,Dissolved Phosphorus,2017,MG/L P,0.018529285714285713
+Quebec,Dissolved Phosphorus,2017,mg/L,0.013692857142857146
+Quebec,Dissolved Phosphorus,2018,mg/L,0.012612184873949581
+Quebec,Dissolved Phosphorus,2019,mg/L,0.01204135220988162
+Quebec,Dissolved Sulphate,2012,mg/L,3.0
+Quebec,Dissolved Sulphate,2013,mg/L,3.0
+Quebec,Dissolved Sulphate,2014,mg/L,11.629853968253968
+Quebec,Dissolved Sulphate,2015,mg/L,11.53127037815126
+Quebec,Dissolved Sulphate,2016,mg/L,12.037302661064427
+Quebec,Dissolved Sulphate,2017,mg/L,10.554581168831168
+Quebec,Dissolved Sulphate,2018,mg/L,11.497106442577032
+Quebec,Dissolved Sulphate,2019,mg/L,10.382572871572872
+Quebec,pH,2012,PH,6.608750000000001
+Quebec,pH,2013,PH,6.6445454545454545
+Quebec,pH,2014,PH,6.745454545454546
+Quebec,pH,2015,PH,6.738333333333333
+Quebec,pH,2016,PH,6.674166666666667
+Quebec,pH,2017,PH,6.591818181818183
+Quebec,pH,2018,PH,6.681666666666666
+Quebec,pH,2019,PH,6.535
+Saskatchewan,Dissolved Oxygen,2000,mg/L,8.96773015873016
+Saskatchewan,Dissolved Oxygen,2001,mg/L,8.524359410430838
+Saskatchewan,Dissolved Oxygen,2002,mg/L,9.274367965367967
+Saskatchewan,Dissolved Oxygen,2003,mg/L,8.56280303030303
+Saskatchewan,Dissolved Oxygen,2004,mg/L,8.865422077922078
+Saskatchewan,Dissolved Oxygen,2005,mg/L,9.08116883116883
+Saskatchewan,Dissolved Oxygen,2006,mg/L,7.17248051948052
+Saskatchewan,Dissolved Oxygen,2007,mg/L,8.733207792207793
+Saskatchewan,Dissolved Oxygen,2008,mg/L,10.00320361781076
+Saskatchewan,Dissolved Oxygen,2009,mg/L,9.693656606551343
+Saskatchewan,Dissolved Oxygen,2010,mg/L,9.29969387755102
+Saskatchewan,Dissolved Oxygen,2011,mg/L,9.620599103277673
+Saskatchewan,Dissolved Oxygen,2012,mg/L,10.041961038961038
+Saskatchewan,Dissolved Oxygen,2013,mg/L,9.447864357864358
+Saskatchewan,Dissolved Oxygen,2014,mg/L,9.829849150849151
+Saskatchewan,Dissolved Oxygen,2015,mg/L,9.635484126984126
+Saskatchewan,Dissolved Oxygen,2016,mg/L,9.808787878787879
+Saskatchewan,Dissolved Oxygen,2017,mg/L,8.970760073260072
+Saskatchewan,Dissolved Oxygen,2018,mg/L,9.358967948717947
+Saskatchewan,Dissolved Oxygen,2019,mg/L,8.81922619047619
+Saskatchewan,Dissolved Phosphorus,2000,mg/L,0.03254761904761905
+Saskatchewan,Dissolved Phosphorus,2001,mg/L,0.02991666666666667
+Saskatchewan,Dissolved Phosphorus,2002,mg/L,0.02864632034632034
+Saskatchewan,Dissolved Phosphorus,2003,mg/L,0.039978571428571426
+Saskatchewan,Dissolved Phosphorus,2004,mg/L,0.043654761904761905
+Saskatchewan,Dissolved Phosphorus,2005,mg/L,0.061785714285714284
+Saskatchewan,Dissolved Phosphorus,2006,mg/L,0.05125476190476191
+Saskatchewan,Dissolved Phosphorus,2007,mg/L,0.046952380952380954
+Saskatchewan,Dissolved Phosphorus,2008,mg/L,0.04004047619047619
+Saskatchewan,Dissolved Phosphorus,2009,mg/L,0.045131241565452083
+Saskatchewan,Dissolved Phosphorus,2010,mg/L,0.06193166133383526
+Saskatchewan,Dissolved Phosphorus,2011,mg/L,0.059818997668997675
+Saskatchewan,Dissolved Phosphorus,2012,mg/L,0.05378571428571429
+Saskatchewan,Dissolved Phosphorus,2013,mg/L,0.048869047619047624
+Saskatchewan,Dissolved Phosphorus,2014,mg/L,0.06406676656676656
+Saskatchewan,Dissolved Phosphorus,2015,mg/L,0.049670634920634914
+Saskatchewan,Dissolved Phosphorus,2016,mg/L,0.04565151515151516
+Saskatchewan,Dissolved Phosphorus,2017,mg/L,0.049382417582417584
+Saskatchewan,Dissolved Phosphorus,2018,mg/L,0.03949642857142858
+Saskatchewan,Dissolved Phosphorus,2019,mg/L,0.036653061224489795
+Saskatchewan,Dissolved Sulphate,2000,mg/L,113.16853741496598
+Saskatchewan,Dissolved Sulphate,2001,mg/L,132.30523809523808
+Saskatchewan,Dissolved Sulphate,2002,mg/L,128.16595238095238
+Saskatchewan,Dissolved Sulphate,2003,mg/L,134.25621428571426
+Saskatchewan,Dissolved Sulphate,2004,mg/L,129.72488095238094
+Saskatchewan,Dissolved Sulphate,2005,mg/L,111.08424603174605
+Saskatchewan,Dissolved Sulphate,2006,mg/L,127.35809523809526
+Saskatchewan,Dissolved Sulphate,2007,mg/L,136.52428571428572
+Saskatchewan,Dissolved Sulphate,2008,mg/L,148.66809523809522
+Saskatchewan,Dissolved Sulphate,2009,mg/L,139.1600541125541
+Saskatchewan,Dissolved Sulphate,2010,mg/L,159.46620129870126
+Saskatchewan,Dissolved Sulphate,2011,mg/L,149.24479215229212
+Saskatchewan,Dissolved Sulphate,2012,mg/L,155.88811688311688
+Saskatchewan,Dissolved Sulphate,2013,mg/L,156.74984126984126
+Saskatchewan,Dissolved Sulphate,2014,mg/L,157.54307858807857
+Saskatchewan,Dissolved Sulphate,2015,mg/L,159.39253968253965
+Saskatchewan,Dissolved Sulphate,2016,mg/L,156.55059523809524
+Saskatchewan,Dissolved Sulphate,2017,mg/L,157.8246978021978
+Saskatchewan,Dissolved Sulphate,2018,mg/L,144.66404761904764
+Saskatchewan,Dissolved Sulphate,2019,mg/L,150.19214285714287
+Saskatchewan,Water Temperature,2000,°C,11.803950261263925
+Saskatchewan,Water Temperature,2001,°C,12.010019742162598
+Saskatchewan,Water Temperature,2002,°C,11.656178242047806
+Saskatchewan,Water Temperature,2003,°C,10.358387445887445
+Saskatchewan,Water Temperature,2004,°C,10.594805194805193
+Saskatchewan,Water Temperature,2005,°C,9.661417748917748
+Saskatchewan,Water Temperature,2006,°C,10.194127539127539
+Saskatchewan,Water Temperature,2007,°C,7.942748917748918
+Saskatchewan,Water Temperature,2008,°C,8.689336913086914
+Saskatchewan,Water Temperature,2009,°C,7.817721401405612
+Saskatchewan,Water Temperature,2010,°C,8.41232941213376
+Saskatchewan,Water Temperature,2011,°C,7.773006111535523
+Saskatchewan,Water Temperature,2012,°C,8.08385064935065
+Saskatchewan,Water Temperature,2013,°C,9.263362193362195
+Saskatchewan,Water Temperature,2014,°C,8.111212787212787
+Saskatchewan,Water Temperature,2015,°C,8.691026984126983
+Saskatchewan,Water Temperature,2016,°C,8.42302489177489
+Saskatchewan,Water Temperature,2017,°C,7.928344322344323
+Saskatchewan,Water Temperature,2018,°C,8.160211538461539
+Saskatchewan,Water Temperature,2019,°C,9.689160714285716
+Saskatchewan,pH,2000,PH,8.08281644198488
+Saskatchewan,pH,2001,PH,8.054666361416361
+Saskatchewan,pH,2002,PH,7.984143806073154
+Saskatchewan,pH,2003,PH,8.123040150842945
+Saskatchewan,pH,2004,PH,8.060541125541127
+Saskatchewan,pH,2005,PH,8.08984693877551
+Saskatchewan,pH,2006,PH,8.074160307601302
+Saskatchewan,pH,2007,PH,7.98446206743567
+Saskatchewan,pH,2008,PH,8.245304212040548
+Saskatchewan,pH,2009,PH,8.051307865096685
+Saskatchewan,pH,2010,PH,8.061632283348121
+Saskatchewan,pH,2011,PH,8.016065737575056
+Saskatchewan,pH,2012,PH,8.063950014788523
+Saskatchewan,pH,2013,PH,8.06051414768806
+Saskatchewan,pH,2014,PH,8.008765960747327
+Saskatchewan,pH,2015,PH,8.141603535353536
+Saskatchewan,pH,2016,PH,8.088128377833346
+Saskatchewan,pH,2017,PH,8.019796942188245
+Saskatchewan,pH,2018,PH,8.031164285714286
+Saskatchewan,pH,2019,PH,7.885178987678988
+US,Dissolved Oxygen,2000,mg/L,7.5375000000000005
+US,Dissolved Oxygen,2001,mg/L,7.076666666666667
+US,Dissolved Oxygen,2002,mg/L,8.50357142857143
+US,Dissolved Oxygen,2003,mg/L,4.547142857142857
+US,Dissolved Oxygen,2004,mg/L,10.41875
+US,Dissolved Oxygen,2005,mg/L,10.518
+US,Dissolved Oxygen,2006,mg/L,4.360833333333334
+US,Dissolved Oxygen,2007,mg/L,9.478
+US,Dissolved Oxygen,2008,mg/L,8.103571428571428
+US,Dissolved Oxygen,2009,mg/L,8.243125
+US,Dissolved Oxygen,2010,mg/L,7.716666666666667
+US,Dissolved Oxygen,2011,mg/L,6.0
+US,Dissolved Oxygen,2012,mg/L,7.998571428571429
+US,Dissolved Oxygen,2013,mg/L,8.175625
+US,Dissolved Oxygen,2014,mg/L,10.395
+US,Dissolved Oxygen,2015,mg/L,9.627142857142857
+US,Dissolved Oxygen,2016,mg/L,9.088750000000001
+US,Dissolved Oxygen,2017,mg/L,7.373571428571429
+US,Dissolved Oxygen,2018,mg/L,8.33
+US,Dissolved Oxygen,2019,mg/L,5.575
+US,Dissolved Phosphorus,2000,mg/L,0.2799375
+US,Dissolved Phosphorus,2001,mg/L,0.333
+US,Dissolved Phosphorus,2002,mg/L,0.2345
+US,Dissolved Phosphorus,2003,mg/L,0.22138095238095237
+US,Dissolved Phosphorus,2004,mg/L,0.28745
+US,Dissolved Phosphorus,2005,mg/L,0.1342
+US,Dissolved Phosphorus,2006,mg/L,0.6931666666666667
+US,Dissolved Phosphorus,2007,mg/L,0.08261111111111112
+US,Dissolved Phosphorus,2008,mg/L,0.5309285714285714
+US,Dissolved Phosphorus,2009,mg/L,0.440125
+US,Dissolved Phosphorus,2010,mg/L,0.193
+US,Dissolved Phosphorus,2011,mg/L,0.2666428571428572
+US,Dissolved Phosphorus,2012,mg/L,0.3055
+US,Dissolved Phosphorus,2013,mg/L,0.22600000000000003
+US,Dissolved Phosphorus,2014,mg/L,0.19235714285714287
+US,Dissolved Phosphorus,2015,mg/L,0.21014285714285716
+US,Dissolved Phosphorus,2016,mg/L,0.12083333333333332
+US,Dissolved Phosphorus,2017,mg/L,0.16572857142857145
+US,Dissolved Phosphorus,2018,mg/L,0.2576625
+US,Dissolved Phosphorus,2019,mg/L,0.12193333333333334
+US,Dissolved Sulphate,2000,mg/L,320.625
+US,Dissolved Sulphate,2001,mg/L,320.85714285714283
+US,Dissolved Sulphate,2002,mg/L,395.0
+US,Dissolved Sulphate,2003,mg/L,414.0
+US,Dissolved Sulphate,2004,mg/L,410.15
+US,Dissolved Sulphate,2005,mg/L,310.0
+US,Dissolved Sulphate,2006,mg/L,586.0
+US,Dissolved Sulphate,2007,mg/L,365.16666666666663
+US,Dissolved Sulphate,2008,mg/L,456.6666666666667
+US,Dissolved Sulphate,2009,mg/L,338.43888888888887
+US,Dissolved Sulphate,2010,mg/L,324.75
+US,Dissolved Sulphate,2011,mg/L,227.64285714285714
+US,Dissolved Sulphate,2012,mg/L,465.125
+US,Dissolved Sulphate,2013,mg/L,224.21780701754383
+US,Dissolved Sulphate,2014,mg/L,240.01811688311685
+US,Dissolved Sulphate,2015,mg/L,249.69931216931215
+US,Dissolved Sulphate,2016,mg/L,345.05555555555554
+US,Dissolved Sulphate,2017,mg/L,500.35714285714283
+US,Dissolved Sulphate,2018,mg/L,671.875
+US,Dissolved Sulphate,2019,mg/L,983.5
+US,Water Temperature,2000,°C,7.674444444444445
+US,Water Temperature,2001,°C,6.323333333333332
+US,Water Temperature,2002,°C,10.266165413533834
+US,Water Temperature,2003,°C,11.117063492063492
+US,Water Temperature,2004,°C,5.9505952380952385
+US,Water Temperature,2005,°C,7.221515151515152
+US,Water Temperature,2006,°C,12.436666666666667
+US,Water Temperature,2007,°C,8.60438596491228
+US,Water Temperature,2008,°C,10.025
+US,Water Temperature,2009,°C,11.061640211640212
+US,Water Temperature,2010,°C,13.03355119825708
+US,Water Temperature,2011,°C,14.007142857142856
+US,Water Temperature,2012,°C,17.895714285714284
+US,Water Temperature,2013,°C,12.841557017543861
+US,Water Temperature,2014,°C,12.286536796536796
+US,Water Temperature,2015,°C,12.437142857142858
+US,Water Temperature,2016,°C,15.178125000000001
+US,Water Temperature,2017,°C,16.355999999999998
+US,Water Temperature,2018,°C,12.121833333333335
+US,Water Temperature,2019,°C,10.281
+US,pH,2000,PH,8.035958333333333
+US,pH,2001,PH,8.038452593917711
+US,pH,2002,PH,8.17510582010582
+US,pH,2003,PH,8.217579365079365
+US,pH,2004,PH,8.074814814814815
+US,pH,2005,PH,7.85860606060606
+US,pH,2006,PH,8.17711111111111
+US,pH,2007,PH,8.182046783625731
+US,pH,2008,PH,8.379333333333333
+US,pH,2009,PH,8.172885154061625
+US,pH,2010,PH,8.018627450980391
+US,pH,2011,PH,8.006428571428572
+US,pH,2012,PH,8.446000000000002
+US,pH,2013,PH,8.0325
+US,pH,2014,PH,8.114195804195806
+US,pH,2015,PH,8.124777777777778
+US,pH,2016,PH,8.151153846153848
+US,pH,2017,PH,8.225599647266314
+US,pH,2018,PH,8.197843137254901
+US,pH,2019,PH,7.999117647058824
+Yukon,Dissolved Oxygen,2005,mg/L,9.869
+Yukon,Dissolved Oxygen,2006,mg/L,10.925714285714285
+Yukon,Dissolved Oxygen,2007,mg/L,11.281818181818181
+Yukon,Dissolved Oxygen,2008,mg/L,11.367121212121212
+Yukon,Dissolved Oxygen,2009,mg/L,10.942
+Yukon,Dissolved Oxygen,2010,mg/L,10.6125
+Yukon,Dissolved Oxygen,2011,mg/L,11.202671957671958
+Yukon,Dissolved Oxygen,2012,mg/L,11.409523809523808
+Yukon,Dissolved Oxygen,2013,mg/L,10.891666666666666
+Yukon,Dissolved Oxygen,2014,mg/L,10.327777777777778
+Yukon,Dissolved Oxygen,2015,mg/L,11.262666666666668
+Yukon,Dissolved Oxygen,2016,mg/L,11.278500000000001
+Yukon,Dissolved Oxygen,2017,mg/L,11.483333333333334
+Yukon,Dissolved Oxygen,2018,mg/L,11.11
+Yukon,Dissolved Oxygen,2019,mg/L,11.699285714285715
+Yukon,Dissolved Phosphorus,2000,mg/L,0.004
+Yukon,Dissolved Phosphorus,2001,mg/L,0.007
+Yukon,Dissolved Phosphorus,2002,mg/L,0.010333333333333333
+Yukon,Dissolved Phosphorus,2003,mg/L,0.008
+Yukon,Dissolved Phosphorus,2004,mg/L,0.01
+Yukon,Dissolved Phosphorus,2005,mg/L,0.01
+Yukon,Dissolved Phosphorus,2006,mg/L,0.01
+Yukon,Dissolved Phosphorus,2007,mg/L,0.015
+Yukon,Dissolved Phosphorus,2008,mg/L,0.005493333333333334
+Yukon,Dissolved Phosphorus,2009,mg/L,0.00652020202020202
+Yukon,Dissolved Phosphorus,2010,mg/L,0.007096618357487923
+Yukon,Dissolved Phosphorus,2011,mg/L,0.005920634920634921
+Yukon,Dissolved Phosphorus,2012,mg/L,0.004974025974025974
+Yukon,Dissolved Phosphorus,2013,mg/L,0.004483068783068784
+Yukon,Dissolved Phosphorus,2014,mg/L,0.0034191279932189026
+Yukon,Dissolved Phosphorus,2015,mg/L,0.0024294733044733048
+Yukon,Dissolved Phosphorus,2016,mg/L,0.0021565564738292016
+Yukon,Dissolved Phosphorus,2017,mg/L,0.0020574090909090906
+Yukon,Dissolved Phosphorus,2018,mg/L,0.0024865454545454544
+Yukon,Dissolved Phosphorus,2019,mg/L,0.00247852380952381
+Yukon,Dissolved Sulphate,2000,mg/L,32.347570465686275
+Yukon,Dissolved Sulphate,2001,mg/L,29.61807421366716
+Yukon,Dissolved Sulphate,2002,mg/L,27.67327935222672
+Yukon,Dissolved Sulphate,2003,mg/L,24.036675824175823
+Yukon,Dissolved Sulphate,2004,mg/L,23.281283738191632
+Yukon,Dissolved Sulphate,2005,mg/L,30.322101440226444
+Yukon,Dissolved Sulphate,2006,mg/L,28.405803212310566
+Yukon,Dissolved Sulphate,2007,mg/L,35.816603535353536
+Yukon,Dissolved Sulphate,2008,mg/L,37.25867003367003
+Yukon,Dissolved Sulphate,2009,mg/L,44.11653985507246
+Yukon,Dissolved Sulphate,2010,mg/L,49.05165692007797
+Yukon,Dissolved Sulphate,2011,mg/L,47.43276414943081
+Yukon,Dissolved Sulphate,2012,mg/L,49.29978354978355
+Yukon,Dissolved Sulphate,2013,mg/L,43.50251322751323
+Yukon,Dissolved Sulphate,2014,mg/L,41.95681818181818
+Yukon,Dissolved Sulphate,2015,mg/L,47.47367834186016
+Yukon,Dissolved Sulphate,2016,mg/L,50.73977134986225
+Yukon,Dissolved Sulphate,2017,mg/L,63.817750000000004
+Yukon,Water Temperature,2000,°C,4.03125
+Yukon,Water Temperature,2001,°C,5.117064506962206
+Yukon,Water Temperature,2002,°C,4.486278002699056
+Yukon,Water Temperature,2003,°C,4.541826923076923
+Yukon,Water Temperature,2004,°C,4.278087044534413
+Yukon,Water Temperature,2005,°C,7.260124042624043
+Yukon,Water Temperature,2006,°C,5.901071428571428
+Yukon,Water Temperature,2007,°C,4.457767094017095
+Yukon,Water Temperature,2008,°C,5.541779711516554
+Yukon,Water Temperature,2009,°C,5.3766561055691495
+Yukon,Water Temperature,2010,°C,5.593066401914609
+Yukon,Water Temperature,2011,°C,4.8951206509539835
+Yukon,Water Temperature,2012,°C,3.7333950617283955
+Yukon,Water Temperature,2013,°C,4.700808080808081
+Yukon,Water Temperature,2014,°C,5.57511655011655
+Yukon,Water Temperature,2015,°C,5.356255739210285
+Yukon,Water Temperature,2016,°C,4.832341597796144
+Yukon,Water Temperature,2017,°C,5.2895101010101
+Yukon,Water Temperature,2018,°C,4.3886111111111115
+Yukon,Water Temperature,2019,°C,5.782166666666667
+Yukon,pH,2000,PH,7.999248774509804
+Yukon,pH,2001,PH,8.092350241545894
+Yukon,pH,2002,PH,8.026825892857143
+Yukon,pH,2003,PH,8.025961352657005
+Yukon,pH,2004,PH,7.931222222222222
+Yukon,pH,2005,PH,8.53619474969475
+Yukon,pH,2006,PH,7.965924630924631
+Yukon,pH,2007,PH,8.064578088578088
+Yukon,pH,2008,PH,8.078020375457875
+Yukon,pH,2009,PH,8.040673040184455
+Yukon,pH,2010,PH,8.067860233918129
+Yukon,pH,2011,PH,8.08195331890332
+Yukon,pH,2012,PH,8.016678571428573
+Yukon,pH,2013,PH,8.068999999999999
+Yukon,pH,2014,PH,8.07502564102564
+Yukon,pH,2015,PH,8.073851911976911
+Yukon,pH,2016,PH,8.113825336700337
+Yukon,pH,2017,PH,8.033746212121212
+Yukon,pH,2018,PH,7.991744949494949
+Yukon,pH,2019,PH,7.9885238095238105
